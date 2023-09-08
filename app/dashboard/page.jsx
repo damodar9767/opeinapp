@@ -278,7 +278,7 @@ const page = () => {
 
                 
 
-              { !formFilled && <> <button onClick={() => setIsPopupOpen(true)} className='bg-[#f5f5f5] rounded-full object-contain'><img src='/controls.svg' alt='+' className='p-2'/>
+              { !formFilled && <> <button onClick={() => setIsPopupOpen(true)} className='bg-[#f5f5f5] rounded-full object-contain'><img src='/Controls.svg' alt='+' className='p-2'/>
                 </button>
                <p className='font-thin tracking-wide  text-gray mt-4'>Add Profile</p> </>} 
 
