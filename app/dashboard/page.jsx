@@ -310,7 +310,7 @@ const page = () => {
                 </div>
                 <div className='flex gap-3 items-center '>
                 <div className='rounded-full min-w-min bg-purple-100 p-1.5 inline-block  '>
-                <img src='/mail.svg'  alt='mail'  className='h-[18px] w-[18px] object-cover '/>
+                <img src='/Mail.svg'  alt='mail'  className='h-[18px] w-[18px] object-cover '/>
                 </div>
 
                 <p className='underline text-sm '> {from.email}</p>
